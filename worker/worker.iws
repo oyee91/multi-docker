@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1acef549-4683-4997-ba13-de1bc21a6080" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.1/libexec" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lcUGMKYUROFhjm8VOAFMgnbQFN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript&#10;JSON" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Bower" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../server" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1acef549-4683-4997-ba13-de1bc21a6080" name="Default Changelist" comment="" />
+      <created>1607895776625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607895776625</updated>
+      <workItem from="1607895780837" duration="2715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-754" y="-795" key="#scratch.js" timestamp="1607896289009">
+      <screen x="-1413" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-754" y="-795" key="#scratch.js/0.0.1440.900/507.-1200.1920.1200/-1413.-1080.1920.1080@-1413.-1080.1920.1080" timestamp="1607896289009" />
+    <state width="1878" height="299" key="GridCell.Tab.0.bottom" timestamp="1607932605051">
+      <screen x="-1413" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="299" key="GridCell.Tab.0.bottom/0.0.1440.900/507.-1200.1920.1200/-1413.-1080.1920.1080@-1413.-1080.1920.1080" timestamp="1607932605051" />
+    <state width="1878" height="299" key="GridCell.Tab.0.center" timestamp="1607932605050">
+      <screen x="-1413" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="299" key="GridCell.Tab.0.center/0.0.1440.900/507.-1200.1920.1200/-1413.-1080.1920.1080@-1413.-1080.1920.1080" timestamp="1607932605050" />
+    <state width="1878" height="299" key="GridCell.Tab.0.left" timestamp="1607932605048">
+      <screen x="-1413" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="299" key="GridCell.Tab.0.left/0.0.1440.900/507.-1200.1920.1200/-1413.-1080.1920.1080@-1413.-1080.1920.1080" timestamp="1607932605048" />
+    <state width="1878" height="299" key="GridCell.Tab.0.right" timestamp="1607932605050">
+      <screen x="-1413" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="299" key="GridCell.Tab.0.right/0.0.1440.900/507.-1200.1920.1200/-1413.-1080.1920.1080@-1413.-1080.1920.1080" timestamp="1607932605050" />
+    <state x="-813" y="-937" key="new project wizard" timestamp="1607897336896">
+      <screen x="-1413" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-813" y="-937" key="new project wizard/0.0.1440.900/507.-1200.1920.1200/-1413.-1080.1920.1080@-1413.-1080.1920.1080" timestamp="1607897336896" />
+    <state x="-788" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1607896344097">
+      <screen x="-1413" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-788" y="-839" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/507.-1200.1920.1200/-1413.-1080.1920.1080@-1413.-1080.1920.1080" timestamp="1607896344097" />
+  </component>
+</project>
